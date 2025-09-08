@@ -5,10 +5,7 @@ Analyzed BigBasket product dataset to find pricing anomalies, top brands, and se
 
 ## 📂 Dataset Preview
 
-
-
-
-
+<img width="977" height="354" alt="image" src="https://github.com/user-attachments/assets/a451b777-34b2-409e-8726-bb024d39cc8e" />
 
 ## key insights
 
@@ -27,6 +24,7 @@ COUNT OF PRODUCTS BY CATEGORY
 AVERAGE SALE PRICE BY CATEGORY 
 
 ## 📸 Screenshots
+
 
 
 
