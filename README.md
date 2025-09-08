@@ -25,9 +25,11 @@ AVERAGE SALE PRICE BY CATEGORY
 
 ## 📸 Screenshots
 
-<img width="2000" height="1124" alt="image" src="https://github.com/user-attachments/assets/d56eaf53-1e61-4838-80cc-0fb5f2034489" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/d56eaf53-1e61-4838-80cc-0fb5f2034489" />
 
-<img width="2000" height="1124" alt="image" src="https://github.com/user-attachments/assets/d2d9efd2-14d6-4e96-9b92-13b95f3bf257" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/d2d9efd2-14d6-4e96-9b92-13b95f3bf257" />
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/3c2a1be4-f1b3-443b-b92e-fbff571bdd6b" />
 
 
 
