@@ -31,6 +31,7 @@ AVERAGE SALE PRICE BY CATEGORY
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/3c2a1be4-f1b3-443b-b92e-fbff571bdd6b" />
 
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/fdd630f3-47ff-4379-847a-7db659591a53" />
 
 
 
