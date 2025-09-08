@@ -33,7 +33,7 @@ AVERAGE SALE PRICE BY CATEGORY
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/fdd630f3-47ff-4379-847a-7db659591a53" />
 
-
-[for many more insights](bigbasket SQL.pdf) 
+<h3>for many more insights</h3>
+[bigbasket_SQLpdf](https://github.com/Kusum-0001/E-Commerce-analytics-with-SQL/blob/main/bigbasket%20SQL.pdf) 
 
 
