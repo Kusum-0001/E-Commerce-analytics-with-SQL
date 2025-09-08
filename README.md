@@ -27,6 +27,7 @@ AVERAGE SALE PRICE BY CATEGORY
 
 <img width="2000" height="1124" alt="image" src="https://github.com/user-attachments/assets/d56eaf53-1e61-4838-80cc-0fb5f2034489" />
 
+<img width="2000" height="1124" alt="image" src="https://github.com/user-attachments/assets/d2d9efd2-14d6-4e96-9b92-13b95f3bf257" />
 
 
 
